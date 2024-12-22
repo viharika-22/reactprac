@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cardContainer{
+    margin: 1vh;
+    border: 2px solid #A99ABD;
+    width: 20rem;
+    height: 16rem;
+    border-radius: 8px;
+}
+h3{
+    color: #9761dc;
+    width: 20rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 7.5vh;
+    border-bottom: 1px solid #A99ABD;
+    background-color:#A99ABD;
+}
+p{
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 23.5vh;
+    background-color: #E9E2EE;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.loginCont{
+    width: 10rem;
+}
+.loginFormHolder{
+    left: 20vh;
+    top: 30vh;
+    position: absolute;
+    border: 1px solid;
+    width: 54rem;
+}
